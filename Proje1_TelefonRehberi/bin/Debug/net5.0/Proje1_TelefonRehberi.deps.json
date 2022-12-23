@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Proje1_TelefonRehberi/1.0.0": {
+        "runtime": {
+          "Proje1_TelefonRehberi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proje1_TelefonRehberi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
